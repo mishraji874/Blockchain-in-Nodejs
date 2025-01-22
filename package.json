@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "cron": "^3.5.0",
     "crypto": "^1.0.1",
     "dat-swarm-defaults": "^1.0.3",
     "discovery-swarm": "^6.1.0",
-    "get-port": "^5.1.1"
+    "get-port": "^5.1.1",
+    "moment": "^2.30.1"
   }
 }
