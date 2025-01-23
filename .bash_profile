@@ -1,0 +1,1 @@
+alias cli='node /mnt/d/Projects/blockchain-in-nodejs/bin/cli.js'
